@@ -1,0 +1,19 @@
+.navigationsItems {
+  display: flex;
+  float: right;
+  height: 100%;
+  align-items: center;
+}
+
+.navigationsItems_menu {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  margin: 0;
+}
+
+.navigationsItems li {
+  padding: 0px 14px;
+}
+
+@import "./SubMenu/SubMenu.scss";

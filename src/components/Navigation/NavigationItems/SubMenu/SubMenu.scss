@@ -1,0 +1,20 @@
+.subMenu {
+  list-style: none;
+  display: block;
+  position: absolute;
+  top: 100%;
+  padding: 0px;
+  padding-top: 10px;
+  z-index: 9999;
+  border-radius: 2px;
+}
+.subMenu li {
+  padding: 0px 0px;
+  display: flex;
+  align-items: center;
+}
+.subMenu li a {
+  background-color: #403d39;
+  padding: 14px;
+  width: 100%;
+}
