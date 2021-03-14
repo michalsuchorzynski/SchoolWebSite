@@ -1,13 +1,13 @@
 import React from 'react'
-// import LogoSVG from '../../assets/images/Logo.png'
+
 
 interface ILogoProps {
-
+    image: any;
 }
 
-const Logo = (props:ILogoProps) => (
+const Logo = (props: ILogoProps) => (
     <div className="logo" >
-        {/* <img src={LogoSVG} alt="SP Świętosław" /> */}
+        <img src={props.image} alt="SP Świętosław" />
     </div>
 )
 
