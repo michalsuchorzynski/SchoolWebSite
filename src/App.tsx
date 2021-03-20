@@ -3,6 +3,7 @@ import { Route, Switch } from 'react-router-dom'
 import './App.scss'
 import About from './containers/About/About'
 import History from './containers/About/History'
+import Teachers from './containers/About/Teachers'
 import Contact from './containers/Contact/Contact'
 import Home from './containers/Home/Home'
 import Parents from './containers/Parents/Parents'
@@ -16,6 +17,7 @@ class App extends React.Component {
         <Switch>
           <Route path="/about" component={About} />
           <Route path="/history" component={History} />
+          <Route path="/teachers" component={Teachers}/>
           <Route path="/schoolLive" component={SchoolLive} />
           <Route path="/contact" component={Contact} />
           <Route path="/parents" component={Parents} />

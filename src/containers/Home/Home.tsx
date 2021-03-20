@@ -18,8 +18,8 @@ class Home extends React.PureComponent {
                         <div
                             className="col-12"
                         >
-                            <h2 className="mainTitle">Szkoła Podstawowa w Świętosławiu</h2>
-                            <h4 className="subTitle">im. Bohaterów Września 1939 r.</h4>
+                            <h2 className="mainTitle">Szkoła Podstawowa im. Bohaterów Września 1939 r.</h2>
+                            <h4 className="subTitle"> w Świętosławiu.</h4>
                         </div>
                     </div>
                     <div

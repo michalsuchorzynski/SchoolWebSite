@@ -12,13 +12,18 @@ const menuItems: INavigationItem[] = [
                 id: 'About',
                 text: 'W pigułce',
                 path: '/about'
-            },  
+            },
             {
                 id: 'History',
                 text: 'Historia szkoły',
                 path: '/history'
-            },  
-           
+            },
+            {
+                id: 'Teachers',
+                text: 'Nauczyciele',
+                path: '/teachers'
+            },
+
         ]
     },
     {
@@ -50,8 +55,16 @@ class Layout extends React.PureComponent {
                 <Toolbar
                     items={menuItems}
                 />
-                <main className="">
-                    {this.props.children}
+                <main
+                    className=""
+                    style={{
+                        backgroundImage: 'url("./images/main.png")'
+                    }}>
+                    <div
+                    className="container-fluid mainPanel"
+                    >
+                        {this.props.children}
+                    </div>
                 </main>
             </>
         )
