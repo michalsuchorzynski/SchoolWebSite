@@ -14,23 +14,30 @@ main {
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
-  // align-items: center;
 }
 .mainPanel {
-  background-color: #f5f3f4;
+  display: flex;
+  width: 100%;
+}
+.mainPanel--center {
+  align-items: center;
+}
+
+.mainPanel_Content {
+  background-color:rgba(245, 243, 244, 0.88);
   max-height: calc(100vh - 150px);
   overflow-y: auto;
-  opacity: 0.88;
 }
+.mainPanel_Content--center {
+  padding: 30px;
+}
+
 h1 {
   margin-top: 20px;
   margin-bottom: 50px;
 }
 section {
   padding: 10px;
-}
-a {
-  color: #f5f3f4;
 }
 
 .mainTitle,

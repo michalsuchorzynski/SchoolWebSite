@@ -2,6 +2,7 @@ import React from 'react'
 import { ITile } from '../../components/UI/Tile/models/ITile'
 import TileList from '../../components/UI/Tile/TileList'
 import { faPhone, faAt, faMapMarkedAlt } from '@fortawesome/free-solid-svg-icons'
+import MainPanel from '../../hoc/MainPanel'
 
 const contactItems: ITile[] = [
     {
@@ -30,13 +31,14 @@ const contactItems: ITile[] = [
 class Contact extends React.PureComponent {
     public render(): JSX.Element {
         return (
-            <div className="container">
-                <h1>SKONTAKTUJ SIĘ Z NAMI</h1>
-                <section>
-                    <TileList items={contactItems} />
-                </section>
-
-            </div>
+            <MainPanel>
+                <div className="container">
+                    <h1>SKONTAKTUJ SIĘ Z NAMI</h1>
+                    <section>
+                        <TileList items={contactItems} />
+                    </section>
+                </div>
+            </MainPanel>
         )
     }
 }

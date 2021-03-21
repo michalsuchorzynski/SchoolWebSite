@@ -1,17 +1,17 @@
 import * as React from 'react'
-import { INavigationItem } from '../../components/Navigation/NavigationItems/NavigationItem/models/INavigationItem'
-import Toolbar from '../../components/Navigation/Toolbar/Toolbar'
+import { INavigationItem } from '../components/Navigation/NavigationItems/NavigationItem/models/INavigationItem'
+import Toolbar from '../components/Navigation/Toolbar/Toolbar'
 
 const menuItems: INavigationItem[] = [
     {
         id: 'About',
         text: 'O szkole',
-        path: '/about',
+        path: '/',
         subItems: [
             {
                 id: 'About',
                 text: 'W pigułce',
-                path: '/about'
+                path: '/'
             },
             {
                 id: 'History',
@@ -22,6 +22,16 @@ const menuItems: INavigationItem[] = [
                 id: 'Teachers',
                 text: 'Nauczyciele',
                 path: '/teachers'
+            },
+            {
+                id: 'Documents',
+                text: 'Dokumenty',
+                path: '/documents'
+            },
+            {
+                id: 'Sport',
+                text: 'Orlik',
+                path: '/sport'
             },
 
         ]
@@ -34,7 +44,34 @@ const menuItems: INavigationItem[] = [
     {
         id: 'Students',
         text: 'Dla Uczniów',
-        path: '/students'
+        path: '/students',
+        subItems: [
+            {
+                id: 'Students',
+                text: 'Informacje',
+                path: '/students'
+            },
+            {
+                id: 'Library',
+                text: 'Biblioteka',
+                path: '/library'
+            },
+            {
+                id: 'Volunteering',
+                text: 'Wolontariat',
+                path: '/volunteering'
+            },
+            {
+                id: 'GlobalEducation',
+                text: 'Edukacja globalna',
+                path: '/globalEducation'
+            },
+            {
+                id: 'Council',
+                text: 'Szamorząd szkolny',
+                path: '/council'
+            },
+        ]
     },
     {
         id: 'Parents',
@@ -56,15 +93,10 @@ class Layout extends React.PureComponent {
                     items={menuItems}
                 />
                 <main
-                    className=""
                     style={{
                         backgroundImage: 'url("./images/main.png")'
                     }}>
-                    <div
-                    className="container-fluid mainPanel"
-                    >
                         {this.props.children}
-                    </div>
                 </main>
             </>
         )

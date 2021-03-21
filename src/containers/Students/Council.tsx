@@ -1,7 +1,7 @@
 import React from 'react'
 import MainPanel from '../../hoc/MainPanel'
 
-class Teachers extends React.PureComponent {
+class Council extends React.PureComponent {
     public render(): JSX.Element {
         return (
             <MainPanel>
@@ -40,4 +40,4 @@ class Teachers extends React.PureComponent {
     }
 }
 
-export default Teachers
+export default Council

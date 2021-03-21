@@ -1,14 +1,13 @@
 import React from 'react'
 import Button from '../../components/UI/Button/Button'
+import MainPanel from '../../hoc/MainPanel'
 
 class Home extends React.PureComponent {
 
-    private handleButtonClick = () => {
 
-    }
     public render(): JSX.Element {
         return (
-            <React.Fragment>
+            <MainPanel center={true}>
                 <div
                     className="container"
                 >
@@ -31,16 +30,10 @@ class Home extends React.PureComponent {
                             <Button
                                 handleClick={() => { window.open('https://uonetplus.vulcan.net.pl/gminaciechocin/?logout=true', '_blank') }}
                             >Logowanie do e-Dziennika</Button>
-                            <Button
-                                handleClick={() => { window.open(`${window.location.origin}/public/pdf/ewaluacja.pdf`, '_blank') }}
-                            >Raport z ewaluacji</Button>
-                            <Button
-                                handleClick={() => { window.open(`${window.location.origin}/public/pdf/300.pdf`, '_blank') }}
-                            >Dobry start 300 dla ucznia</Button>
                         </div>
                     </div>
                 </div>
-            </React.Fragment>
+            </MainPanel>
         )
     }
 }
