@@ -12,14 +12,14 @@ const forStudentsItems: IAccordion[] = [
             <div>
                 <h3>Plan lekcji dla klasy:</h3>
                 <ul>
-                    <li><a target="_blank" href="./public/pdf/planLekcji/klasai.pdf">I</a></li>
-                    <li><a target="_blank" href="./public/pdf/planLekcji/klasaii.pdf">II</a></li>
-                    <li><a target="_blank" href="./public/pdf/planLekcji/klasaiii.pdf">III</a></li>
-                    <li><a target="_blank" href="./public/pdf/planLekcji/klasaiv.pdf">IV</a></li>
-                    <li><a target="_blank" href="./public/pdf/planLekcji/klasav.pdf">V</a></li>
-                    <li><a target="_blank" href="./public/pdf/planLekcji/klasavi.pdf">VI</a></li>
-                    <li><a target="_blank" href="./public/pdf/planLekcji/klasavii.pdf">VII</a></li>
-                    <li><a target="_blank" href="./public/pdf/planLekcji/klasaviii.pdf">VIII</a></li>
+                    <li><a target="_blank" href="./pdf/planLekcji/klasai.pdf">I</a></li>
+                    <li><a target="_blank" href="./pdf/planLekcji/klasaii.pdf">II</a></li>
+                    <li><a target="_blank" href="./pdf/planLekcji/klasaiii.pdf">III</a></li>
+                    <li><a target="_blank" href="./pdf/planLekcji/klasaiv.pdf">IV</a></li>
+                    <li><a target="_blank" href="./pdf/planLekcji/klasav.pdf">V</a></li>
+                    <li><a target="_blank" href="./pdf/planLekcji/klasavi.pdf">VI</a></li>
+                    <li><a target="_blank" href="./pdf/planLekcji/klasavii.pdf">VII</a></li>
+                    <li><a target="_blank" href="./pdf/planLekcji/klasaviii.pdf">VIII</a></li>
                 </ul>
             </div>
         ),

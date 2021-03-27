@@ -8,6 +8,16 @@ class Sport extends React.PureComponent {
                 <div className="container">
                     <h1>Orlik 2012</h1>
                     <section>
+                        <h4>ZAWIESZENIE DZIAŁANIA ORLIKA I PROJEKTU LOKALNY ANIMATOR SPORTU</h4>
+                        <span>
+                            W związku z ROZPORZĄDZENIEM RADY MINISTRÓW z dnia 25 marca 2021 r. w sprawie ustanowienia określonych ograniczeń, 
+                            nakazów i zakazów w związku z wystąpieniem stanu epidemii PROJEKT LOKALNY ANIMATOR SPORTU ZOSTAJE ZAWIESZONY BEZWARUNKOWO 
+                            DO DNIA 9 KWIETNIA 2021 R. 
+                        </span>
+                        <br></br>
+                        <a target="_blank" href="https://projektorlik.pl/2021/03/26/projekt-lokalny-animator-sportu-zawieszony-bezwarunkowo/">Szczegółowe informacje tutaj.</a>
+                    </section>
+                    <section>
                         <h4>Powstanie orlika</h4>
                         <span>
                             21 listopada 2008 r. na terenie naszej szkoły, odbyło się uroczyste otwarcie kompleksu boisk sportowych :"Orlik 2012".
