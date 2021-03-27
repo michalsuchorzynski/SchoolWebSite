@@ -1,5 +1,6 @@
 import React from 'react'
 import Logo from '../../Logo/Logo'
+import Wcag from '../../WCAG/Wcag'
 import { INavigationItem } from '../NavigationItems/NavigationItem/models/INavigationItem'
 import NavigationItems from '../NavigationItems/NavigationItems'
 
@@ -10,20 +11,24 @@ interface IToollBarProps {
 const Toolbar = (props: IToollBarProps): JSX.Element => {
     return (
         <header className="toolbar">
-            <div className="container">
+            <div className="container-fluid">
                 <div className="row">
-                    <div className="col-4">
+                    <div className="col-2"></div>
+                    <div className="col-3">
                         <Logo
                             image="./images/Logo.png"
                         />
-                         <Logo
+                        <Logo
                             image="./images/projekt_z_klasa.jpg"
                         />
                     </div>
-                    <div className="col-8">
+                    <div className="col-4">
                         <NavigationItems
                             items={props.items}
                         />
+                    </div>
+                    <div className="col-3">
+                        <Wcag></Wcag>
                     </div>
                 </div>
             </div>

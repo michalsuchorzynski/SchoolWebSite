@@ -34,6 +34,7 @@ class App extends React.Component {
           <Route path="/globalEducation" component={GlobalEducation} />
           <Route path="/volunteering" component={Volunteering} />
           <Route path="/library" component={Library} />
+          <Route path="/" component={Home} />
         </Switch>
       </Layout>
     )

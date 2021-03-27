@@ -1,0 +1,51 @@
+.wcag {
+  display: flex;
+
+}
+
+.wcag_Item {
+  height: 60px;
+  background-color: black;
+  color: rgb(255, 236, 0);
+  font-size: 16px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding-left: 5px;
+  padding-right: 5px;
+  outline: none;
+}
+.wcag_Item:hover {
+  color: black;
+  background-color: rgb(255, 236, 0);
+  cursor: pointer;
+}
+
+.wcag_Item--bigger {
+  font-size: 20px;
+}
+
+.wcag_Item--biggest {
+  font-size: 26px;
+}
+
+.fontSizeBigger {
+  font-size: 24px;
+  line-height: 36px;
+}
+.fontSizeBiggest {
+  font-size: 32px;
+  line-height: 48px;
+}
+.highContrast,
+.highContrast div,
+.highContrast a,
+.highContrast span{
+  background-image: none;
+  background-color: black!important;
+  color: #ffff00!important ;
+  font-size: 24px;
+  line-height: 36px;
+
+}
