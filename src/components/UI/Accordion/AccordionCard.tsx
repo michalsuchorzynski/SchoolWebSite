@@ -9,13 +9,19 @@ interface IAccordionCardProps {
 
 const AccordionCard = (props: IAccordionCardProps): JSX.Element => {
     const [open, setOpen] = useState<boolean>(false)
-
+    const handleKeyDown = (event: any) => {
+        if (event.keyCode === 32) {
+            setOpen(!open)
+        }
+    }
     return (
         <div className="accordionCard">
 
             <div
                 className="accordionCard_header"
                 onClick={() => setOpen(!open)}
+                tabIndex={4}
+                onKeyDown={handleKeyDown}
             >
                 <span>
                     {props.header}

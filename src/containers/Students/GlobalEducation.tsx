@@ -22,7 +22,7 @@ class GlobalEducation extends React.PureComponent {
                             w krajach rozwijających się oraz zapozna młodych ludzi z ideą wolontariatu.
                             Szczegółowe informacje można znaleźć na stronie :
                         </span>
-                        <a target="_blank" href="www.edukacjaglobalna.ore.edu.pl"> www.edukacjaglobalna.ore.edu.pl </a>
+                        <a tabIndex={4} href="www.edukacjaglobalna.ore.edu.pl"> www.edukacjaglobalna.ore.edu.pl </a>
 
                         <span>
                             Tydzień Edukacji Globalnej zgodnie z harmonogramem odbywał się w terminie od 14.11. do 18.11.2016r.

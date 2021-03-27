@@ -15,7 +15,7 @@ class Sport extends React.PureComponent {
                             DO DNIA 9 KWIETNIA 2021 R. 
                         </span>
                         <br></br>
-                        <a target="_blank" href="https://projektorlik.pl/2021/03/26/projekt-lokalny-animator-sportu-zawieszony-bezwarunkowo/">Szczegółowe informacje tutaj.</a>
+                        <a tabIndex={4} href="https://projektorlik.pl/2021/03/26/projekt-lokalny-animator-sportu-zawieszony-bezwarunkowo/">Szczegółowe informacje tutaj.</a>
                     </section>
                     <section>
                         <h4>Powstanie orlika</h4>

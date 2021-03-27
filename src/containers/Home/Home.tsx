@@ -28,7 +28,7 @@ class Home extends React.PureComponent {
                             className="col-4 offset-4"
                         >
                             <Button
-                                handleClick={() => { window.open('https://uonetplus.vulcan.net.pl/gminaciechocin/?logout=true', '_blank') }}
+                                handleClick={() => { window.open('https://uonetplus.vulcan.net.pl/gminaciechocin/?logout=true', '_self') }}
                             >Logowanie do e-Dziennika</Button>
                         </div>
                     </div>

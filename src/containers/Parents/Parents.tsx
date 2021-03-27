@@ -66,6 +66,7 @@ const recruitments: IAccordion[] = [
         header: 'Szkoła',
         content: (
             <a
+            tabIndex={4}
             href="https://www.ciechocin.pl/304,wszystkie-aktualnosci?tresc=5385"
             >
                 Rekrutacja 2021/2022

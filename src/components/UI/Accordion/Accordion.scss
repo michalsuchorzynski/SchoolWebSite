@@ -15,5 +15,8 @@
     border-left: 1px solid #b1a7a6;
     border-right: 1px solid #b1a7a6;
     font-size: 16px;
-
+}
+.accordionCard:hover,
+.accordionCard:focus {
+  border-color: #ba181b;
 }

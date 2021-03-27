@@ -17,7 +17,6 @@ class Documents extends React.PureComponent {
                             <li>
                                 <a
                                     href={"./pdf/statut.pdf"}
-                                    target={"_blank"}
                                 >
                                     Statut szkoły
                             </a>
@@ -25,7 +24,6 @@ class Documents extends React.PureComponent {
                             <li>
                                 <a
                                     href={"./pdf/ewaluacja.pdf"}
-                                    target={"_blank"}
                                 >
                                     Raport z ewaluacji
                             </a>
@@ -33,7 +31,6 @@ class Documents extends React.PureComponent {
                             <li>
                                 <a
                                     href={"./pdf/300.pdf"}
-                                    target={"_blank"}
                                 >
                                     Dobry start 300 dla ucznia
                                 </a>
@@ -41,7 +38,6 @@ class Documents extends React.PureComponent {
                             <li>
                                 <a
                                     href={"./pdf/klauzula.pdf"}
-                                    target={"_blank"}
                                 >
                                     Klauzula informacyjna o przetwarzaniu danych osobowych
                                 </a>
@@ -49,7 +45,6 @@ class Documents extends React.PureComponent {
                             <li>
                                 <a
                                     href={"./pdf/raportDostepnosci.pdf"}
-                                    target={"_blank"}
                                 >
                                     Raport o dostępności
                                 </a>
@@ -57,7 +52,6 @@ class Documents extends React.PureComponent {
                             <li>
                                 <a
                                     href={"./pdf/deklaracjaDostepnosci.pdf"}
-                                    target={"_blank"}
                                 >
                                     Deklaracja dostępności
                                 </a>

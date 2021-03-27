@@ -16,7 +16,8 @@
   padding-right: 5px;
   outline: none;
 }
-.wcag_Item:hover {
+.wcag_Item:hover,
+.wcag_Item:focus {
   color: black;
   background-color: rgb(255, 236, 0);
   cursor: pointer;

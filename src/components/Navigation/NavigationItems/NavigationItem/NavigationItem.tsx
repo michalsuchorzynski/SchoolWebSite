@@ -17,12 +17,21 @@ const NavigationItem = (props: INavigationItemProps): JSX.Element => {
             />
         )
     }
+    const handleKeyDown = (event: any) => {
+        if (event.keyCode === 32) {
+            setSubMenuVisible(!subMenuVisible)
+        }
+    }
     return (
         <li
+            onKeyDown={handleKeyDown}
             onMouseEnter={() => setSubMenuVisible(true)}
             onMouseLeave={() => setSubMenuVisible(false)}
         >
-            <Link to={props.path}>{props.text}</Link>
+            <Link
+                to={props.path}
+                tabIndex={3}
+            >{props.text}</Link>
             {subMenu}
         </li>
     )

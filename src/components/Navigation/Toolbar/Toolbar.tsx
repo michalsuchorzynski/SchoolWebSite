@@ -13,8 +13,8 @@ const Toolbar = (props: IToollBarProps): JSX.Element => {
         <header className="toolbar">
             <div className="container-fluid">
                 <div className="row">
-                    <div className="col-2"></div>
-                    <div className="col-3">
+                    <div className="col-1"></div>
+                    <div className="col-4">
                         <Logo
                             image="./images/Logo.png"
                         />
