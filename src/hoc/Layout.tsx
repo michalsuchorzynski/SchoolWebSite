@@ -66,11 +66,11 @@ const menuItems: INavigationItem[] = [
                 text: 'Edukacja globalna',
                 path: '/globalEducation'
             },
-            {
-                id: 'Council',
-                text: 'Szamorząd szkolny',
-                path: '/council'
-            },
+            // {
+            //     id: 'Council',
+            //     text: 'Szamorząd szkolny',
+            //     path: '/council'
+            // },
         ]
     },
     {
