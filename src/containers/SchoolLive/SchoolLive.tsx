@@ -1,7 +1,5 @@
 import React from 'react'
-import Gallery from '../../components/UI/Gallery/Gallery'
 import MainPanel from '../../hoc/MainPanel'
-import { galleryMock } from './mock/GalleryMock'
 
 class SchoolLive extends React.PureComponent {
     public render(): JSX.Element {
@@ -9,6 +7,49 @@ class SchoolLive extends React.PureComponent {
             <MainPanel>
                 <div className="container">
                     <h1>Życie szkoły!!</h1>
+                    <section>
+                        <h3>Konkurs fotograficzno-plastyczny "Poznaj płazy Polski</h3>
+                        <div>
+                            Szkoła Leśna na Barbarce oraz Stowarzyszenie „Tilia” zapraszają uczniów do udziału w konkursie plastyczno-fotograficznym pn.
+                            „Poznaj płazy Polski”. Konkurs skierowany jest do uczniów przedszkoli i szkół z terenu województwa kujawsko-pomorskiego w kategoriach wiekowych:
+                            przedszkola, uczniowie klas I-III szkoły podstawowej, uczniowie klas IV-VIII szkoły podstawowej. W przypadku uczniów przedszkoli i klas I-III zadanie
+                            konkursowe polega na przygotowaniu pracy plastycznej a starsi uczniowie mają do przygotowania zdjęcie płaza w środowisku naturalnym. Na laureatów czekają
+                            atrakcyjne nagrody.
+                            <br></br>
+                            Więcej informacji na stronie internetowej konkursu <a href="https://ochronagatunkow.edu.pl/konkurs-fotograficzczny">tutaj :)</a>
+                            <br></br>
+                            Dokumenty:
+                            <ul>
+                                <li><a href={"./pdf/informacjaRODO.pdf"}>Informacja RODO</a></li>
+                                <li><a href={"./pdf/RegulaminKonkursPOZNAJPŁAZYPOLSKI.pdf"}>Regulamin</a></li>
+                                <li><a href={"./pdf/kartazgłoszenia-fotorgafia.pdf"}>Karta zgłoszenia - fotografia</a></li>
+                                <li><a href={"./pdf/kartazgłoszenia-praca plastyczna.pdf"}>Karta zgłoszenia - praca plastyczna</a></li>
+                            </ul>
+
+                        </div>
+                    </section>
+                    <section>
+                        <h3>Konkurs wielkanocny</h3>
+                        <div>
+                            Jak co roku w naszej szkole odbył się konkurs wielkanocny. Tym razem organizatorzy
+                            zdecydowali się podzielić uczniów wg kategorii wiekowych. Przydzielili im też różne
+                            zadania.
+                            <br></br>
+                            Klasy 0-3, aby zwyciężyć w konkursie, musiały przygotować wielkanocne
+                            kurczaczki. Dzieci podeszły do tego zadania bardzo ochoczo i ambitnie, co zaowocowało
+                            pięknymi pracami. Jury miało twardy orzech do zgryzienia, gdyż kurczaki były przepiękne i
+                            starannie wykonane. Ostatecznie zwycięzcami okazali się: Lena Wróblewska i Antek
+                            Charchuła. Wszystkim nagrodzonym i wyróżnionym dzieciom serdecznie gratulujemy!
+                            <br></br>
+                            Starsze klasy podjęły się zadania przygotowania kartek wielkanocnych, w które
+                            wpisały życzenia w języku niemieckim (klasy 7-8) lub angielskim (klasy 4-6).
+                            Najpiękniejsze prace przygotowali: Angelika Kowalkowska z klasy 8 i Konrad
+                            Popielarski z klasy 4. 
+                            <br></br>
+                            <b>Gratulujemy!</b>
+                            <a href="http://swietoslawszkola.web-album.org/album/54606,konkurs-wielkanocny">Zapraszamy do galerii</a>
+                        </div>
+                    </section>
                     <section>
                         <h3>Konkurs "Dobrze Ziemio 2021"</h3>
                         <div>
@@ -67,6 +108,7 @@ class SchoolLive extends React.PureComponent {
                             <li>Ogłoszenie wyników-30 marca br.</li>
                             <li>W konkursie przewidziane są  nagrody.</li>
                         </ol>
+                        <a href="http://swietoslawszkola.web-album.org/album/54607,zdrowe-sniadanie">Zapraszamy do galerii</a>
                     </section>
                     <section>
                         <h3>Tydzień mózgu</h3>
