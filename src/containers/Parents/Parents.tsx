@@ -147,7 +147,13 @@ const forParentsItems: IAccordion[] = [
         header: 'Aktualności',
         content: (
             <div>
-                <span>Brak nowych wiadomości</span>
+                <h3>Narodowy Spis Powszechny Ludności i Mieszkań w 2021 r</h3>
+                <a
+                    tabIndex={4}
+                    href={"./pdf/InformacjaNSP2021.pdf"}
+                >
+                    Informacja
+            </a>
             </div>
         )
     },

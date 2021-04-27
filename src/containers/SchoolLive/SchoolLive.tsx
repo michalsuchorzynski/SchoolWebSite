@@ -8,6 +8,39 @@ class SchoolLive extends React.PureComponent {
                 <div className="container">
                     <h1>Życie szkoły!!</h1>
                     <section>
+                        <h3>Zapisz się na konsultacje strategii dla młodzieży w woj. kujawsko-pomorskim!</h3>
+                        <a href={"./pdf/Zapiszsie.pdf"}>Więcej informacji tutaj...</a>
+                    </section>
+                    <section>
+                        <h3>Lekcje z klimatem</h3>
+                        <div>
+                            Uczniowie klas VI-VIII, 22 kwietnia br., uczestniczyli w webinarium dotyczącym dobrych praktyk na rzecz ochrony klimatu.
+                            Webinarium poprowadzili przedstawiciele Młodzieżowej Rady Klimatycznej przy współpracy Ministerstwa Klimatu i Środowiska.
+                            Oprócz wykładów na temat systemy klimatycznego Ziem,  cyklu węglowego, efektu cieplarnianego odbyły się bardzo ciekawe warsztaty:
+                            </div>
+                        <ul>
+                            <li>kulinarne, z Jagną Niedzielską zwracające uwagę na problem marnowania żywności,</li>
+                            <li>„ubraniowe”, z Katarzyną Wolszczak podkreślające kwestie odpowiedzialnej zrównoważonej mody.</li>
+                        </ul>
+                        <div>
+                            Moda na ekologię trwa od dawna, w realiach pandemii zdecydowanie zyskała na popularności a my zamierzamy wpłynąć na
+                            los naszej planety i aktywnie uczestniczyć w ekologicznych działaniach. <a href="https://lekcjezklimatem.pl/">Więcej informacji tutaj...</a>
+                        </div>
+
+                    </section>
+                    <section>
+                        <h3>Wyniki konkursu „Zdrowe Śniadanie Nastolatka”</h3>
+                        <a href={"./pdf/WynikiKonkursu.pdf"}>Wyniki konkursu</a>
+                    </section>
+                    <section>
+                        <h3>Audycja na Dzień Ziemi przygotowana przez dzielnych siódmoklasistów naszej szkoły.</h3>
+                        <span>
+                            Uczniowie klasy VII, z okazji Dnia Ziemi, przygotowali dla społeczności szkolnej słuchowisko poświęcone zrównoważonemu rozwojowi i globalnemu ociepleniu.
+                            Serdecznie zapraszamy do jego wysłuchania.
+                        </span>
+                        <a href={"./pdf/biologia5.mp4"}>Słuchowisko</a>
+                    </section>
+                    <section>
                         <h3>Konkurs fotograficzno-plastyczny "Poznaj płazy Polski</h3>
                         <div>
                             Szkoła Leśna na Barbarce oraz Stowarzyszenie „Tilia” zapraszają uczniów do udziału w konkursie plastyczno-fotograficznym pn.
@@ -44,7 +77,7 @@ class SchoolLive extends React.PureComponent {
                             Starsze klasy podjęły się zadania przygotowania kartek wielkanocnych, w które
                             wpisały życzenia w języku niemieckim (klasy 7-8) lub angielskim (klasy 4-6).
                             Najpiękniejsze prace przygotowali: Angelika Kowalkowska z klasy 8 i Konrad
-                            Popielarski z klasy 4. 
+                            Popielarski z klasy 4.
                             <br></br>
                             <b>Gratulujemy!</b>
                             <a href="http://swietoslawszkola.web-album.org/album/54606,konkurs-wielkanocny">Zapraszamy do galerii</a>
