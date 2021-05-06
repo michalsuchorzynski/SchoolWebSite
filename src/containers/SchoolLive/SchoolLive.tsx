@@ -8,6 +8,11 @@ class SchoolLive extends React.PureComponent {
                 <div className="container">
                     <h1>Życie szkoły!!</h1>
                     <section>
+                        <div className="container" style={{ textAlign: "center" }}>
+                            <img src="./pdf/kondolencje.PNG"></img>
+                        </div>
+                    </section>
+                    <section>
                         <h3>Zapisz się na konsultacje strategii dla młodzieży w woj. kujawsko-pomorskim!</h3>
                         <a href={"./pdf/Zapiszsie.pdf"}>Więcej informacji tutaj...</a>
                     </section>
