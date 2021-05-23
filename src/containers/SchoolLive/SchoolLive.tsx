@@ -8,8 +8,61 @@ class SchoolLive extends React.PureComponent {
                 <div className="container">
                     <h1>Życie szkoły!!</h1>
                     <section>
-                        <div className="container" style={{ textAlign: "center" }}>
-                            <img src="./pdf/kondolencje.PNG"></img>
+                        <h3>XXI WOJEWÓDZKI KONKURS RECYTATORSKI POEZJI I PROZY POŚWIĘCONEJ FRYDERYKOWI CHOPINOWI I MUZYCE</h3>
+                        <div>
+                            W Ośrodku Chopinowskim w Szafarni odbyła się kolejna edycja konkursu recytatorskiego, tym razem w formie online.
+                            Naszą szkołę reprezentowała uczennica klasy V, Justyna Romanowska, która przygotowała interpretację utworu Wandy Chotomskiej "Muzyka pana Chopina".
+                            <br />
+                            <a href="https://youtu.be/vxnCQaoT7Jw">Link do nagrania</a>
+                        </div>
+                    </section>
+                    <section>
+                        <h3>XVI WOJEWÓDZKI KONKURS RECYTATORSKI POEZJI KRZYSZTOFA KAMILA BACZYŃSKIEGO "ZNÓW WĘDRUJEMY CIEPŁYM KRAJEM"</h3>
+                        W ostatnią sobotę kwietnia w Szkole Podstawowej w Czernikowie ogłoszono wyniki konkursu recytatorskiego poświęconego twórczości
+                        Krzysztofa Kamila Baczyńskiego. Uczeń klasy VII, Kacper Łańcucki, zaprezentował dwa utwory poety. Zyskał uznanie jury - otrzymał jedną z nagród.
+                        Gratulujemy!
+                        <br></br>
+                        <a href="https://youtu.be/JtUyvyoc9Q4">nagranie - Ten czas</a>
+                        <br></br>
+                        <a href="https://youtu.be/qNXzB6lbrH4">nagranie - Rodzicom</a>
+
+                    </section>
+                    <section>
+                        <h3>Dzień Ziemi pod hasłem „Przywróć naszą Ziemię”</h3>
+                        <div>
+                            <br></br>
+                            Dzień Ziemi to święto obchodzone na całym świecie 22 kwietnia. Tegorocznym motywem przewodnim było hasło ”Przywróć naszą Ziemię”.
+                            Z powodu pandemii, wiele naszych podjętych działań, odbyło się w świecie wirtualnym. Jakie działania podjęliśmy?:
+                            <ul>
+                                <li>
+                                    uczniowie klas VI i VII przygotowali dla całej naszej społeczności
+                                    słuchowiska poświęcone zrównoważonemu rozwojowi i globalnemu ociepleniu  <a href={"./pdf/biologia5.mp4"}>Słuchowisko</a>
+                                </li>
+                                <li>
+                                    klasy VI-VIII brały udział w webinarium „ Lekcje z klimatem” prowadzonym przez Młodzieżową Radę Klimatyczną
+                                    przy współpracy Ministra Klimatu i Środowiska oraz uczestniczyli w warsztatach kulinarnych, zwracających
+                                    uwagę na problem marnowania żywności, i „ubraniowych”, podkreślających kwestie odpowiedzialnej zrównoważonej mody.
+                                </li>
+                                <li>
+                                    dla uczniów klas IV-VIII zorganizowano międzyklasowy konkurs pt. „Zaprzyjaźnij się z zero waste”,
+                                    dotyczący niemarnowania jedzenia oraz ponownego przetwarzania odpadów.
+                                </li>
+                            </ul>
+                            Zwycięzcami konkursu zostali:
+                            <br></br>
+                            Oliwier Główka-klasa IV, Julia Sztramkowska-klasa V, Zosia Wierzbowska-klasa
+                            VI, Piotr Kotkiewicz-klasa VII, Adrian Szafrański-klasa VII, Damian Dąbrowski-klasa VII, Maja Wierzbowska-klasa VIII.
+                            <br></br>
+                            wszyscy zaś uczniowie mogli podjąć i wykonać ekowyzwania, takie jak, np: zbiórka śmieci w swojej okolicy, wykonać pojemnik na zbiórkę baterii bądź
+                            nakrętek plastikowych w swoim domu, posadzenie drzewa, uszycie z niepotrzebnych materiałów ekotorby na zakupy, stworzenie kącika
+                            recyklingowego czy wykonanie ekologicznych kosmetyków.  <a href={"./pdf/biologiaAA.mp4"}>Słuchowisko</a>
+                            <br></br>
+                            <a href="http://swietoslawszkola.web-album.org/album/54685,dzien-ziemi">Zapraszamy do galerii</a>
+                            <br />
+                            <b>
+                                Pamiętajmy, że Dzień Ziemi musimy celebrować każdego dnia, ponieważ nie mamy już czasu, aby obchodzić go tylko raz do roku.
+                                Dlatego zróbmy wszystko, aby chronić naszą planetę.
+                            </b>
                         </div>
                     </section>
                     <section>
