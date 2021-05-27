@@ -8,6 +8,21 @@ class SchoolLive extends React.PureComponent {
                 <div className="container">
                     <h1>Życie szkoły!!</h1>
                     <section>
+                        <h3>Challenge dla Lenki</h3>
+                        <div>
+                            Nominujemy:
+                            <ul>
+                                <li>Szkołę Podstawową w Osówce</li>
+                                <li>Szkołę Podstawową w Nowogrodzie</li>
+                                <li>Szkołę Podstawową w Mazowszu</li>
+                                <li>OSP w Świętosławiu</li>
+                                <li>KGW w Świętosławiu</li>
+                            </ul>
+                            <br />
+                            <a href="https://youtu.be/SCMFvS68GLI">Link do nagrania</a>
+                        </div>
+                    </section>
+                    <section>
                         <h3>XXI WOJEWÓDZKI KONKURS RECYTATORSKI POEZJI I PROZY POŚWIĘCONEJ FRYDERYKOWI CHOPINOWI I MUZYCE</h3>
                         <div>
                             W Ośrodku Chopinowskim w Szafarni odbyła się kolejna edycja konkursu recytatorskiego, tym razem w formie online.
