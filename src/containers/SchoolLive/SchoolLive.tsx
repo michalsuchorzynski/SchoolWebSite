@@ -8,6 +8,10 @@ class SchoolLive extends React.PureComponent {
                 <div className="container">
                     <h1>Życie szkoły!!</h1>
                     <section>
+                        <h3>Dzień matki i ojca</h3>
+                        <a href="https://youtu.be/pY98UEnI3ec">Życzenia</a>
+                    </section>
+                    <section>
                         <h3>Challenge dla Lenki</h3>
                         <div>
                             Nominujemy:
