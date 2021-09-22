@@ -8,6 +8,76 @@ class SchoolLive extends React.PureComponent {
                 <div className="container">
                     <h1>Życie szkoły!!</h1>
                     <section>
+                        <h3>Sprzątanie Świata 2021 pod hasłem, Myślę, więc nie śmiecę”.</h3>
+                        <div>W poniedziałek, 20 września br., wzorem ubiegłych lat, nasza
+                            szkoła włączyła się do akcji „Sprzątania Świata”. Celem
+                            przedsięwzięcia było promowanie nieśmiecenia, edukacja
+                            odpadowa oraz inicjowanie działań, dzięki którym zmniejszy
+                            się negatywny wpływ oddziaływania na środowisko.
+                            <br></br>
+                            Uczniowie klas IV-VII wraz z opiekunami, tym razem
+                            zagościli w Leśnie i tam podjęli działania, które przyczyniły
+                            się zmniejszeniu ilości odpadów. Po ciężkiej pracy, jaką było
+                            sprzątanie okolicznych lasów, czekało na nich ognisko z
+                            kiełbaskami oraz mnóstwo zabaw na świeżym powietrzu.
+                            <br></br>
+                            Serdecznie dziękujemy wszystkim za zaangażowanie się w akcję!
+                            <br></br>
+                            <a href="http://swietoslawszkola.web-album.org/album/55187,sprzatanie-lasu">Zapraszamy do galerii ......</a>
+                        </div>
+                    </section>
+                    <section>
+                        <h3>Szczepienie przeciwko COVID-19</h3>
+                        <img
+                            style={
+                                {
+                                    display: "flex"
+                                }
+                            }
+                            src="./images/szczepienie.png"
+                        />
+                        <a
+                            tabIndex={4}
+                            href={"./pdf/szczepienie.pdf"}
+                        >Więcej tutaj</a>
+                    </section>
+                    <section>
+                        <h3>Mobilny Punkt Spisowy</h3>
+                        <a
+                            tabIndex={4}
+                            href={"./pdf/MobilnyPunktSpisowy.pdf"}
+                        >Więcej tutaj</a>
+                    </section>
+                    <section>
+                        <h3>Narodowy Spis Powszechny Ludności i Mieszkań w 2021 r</h3>
+                        <a
+                            tabIndex={4}
+                            href={"./pdf/NSP2021.pdf"}
+                        >
+                            Informacja
+                        </a>
+                    </section>
+                    <section>
+                        <h3>Udział w projekcie “Little water ambassadors” w ramach programu eTwinning.</h3>
+                        <div>
+                            W kwietniu i maju 2021 roku uczniowie klas: 1, 2 i 3 wzięli udział w projekcie ”Mali ambasadorowie wody”,
+                            którego głównymi celami było: promowanie ochrony przyrody, dbanie o środowisko oraz budowanie wśród dzieci świadomości proekologicznej.
+                            Cele te były realizowane głównie poprzez ukazanie znaczenia wody w naszym życiu oraz działania związane z obchodami Dnia Ziemi.
+                            <br></br>
+                            Duże znaczenie ma też fakt, że w ramach projektu współpracowaliśmy ze szkołami z Turcji oraz szkołą z Włoch,
+                            komunikując się w języku angielskim i mając możliwość nawiązania żywych kontaktów z uczniami z innych krajów.
+                            Część uczniów wzięła udział w spotkaniu video z uczniami ze szkoły w Konya w Turcji oraz
+                            w rozmowie online z uczniami i nauczycielami biorącymi udział w projekcie.
+                            <br></br>
+                            Efekty naszej pracy to także plakaty, hasła oraz opowiadanie w języku polskim i angielskim.
+                            Za projekt otrzymaliśmy Krajową Odznakę Jakości eTwinning - Quality Label.
+                            <br></br>
+                            Mam nadzieję, że ten projekt to tylko dobry początek naszej międzynarodowej przygody.
+                            <br></br>
+                            <a href="http://swietoslawszkola.web-album.org/album/54902,etwinning">Zapraszamy do galerii ......</a>
+                        </div>
+                    </section>
+                    <section>
                         <h3>Dzień matki i ojca</h3>
                         <a href="https://youtu.be/pY98UEnI3ec">Życzenia</a>
                     </section>
@@ -94,7 +164,7 @@ class SchoolLive extends React.PureComponent {
                             Uczniowie klas VI-VIII, 22 kwietnia br., uczestniczyli w webinarium dotyczącym dobrych praktyk na rzecz ochrony klimatu.
                             Webinarium poprowadzili przedstawiciele Młodzieżowej Rady Klimatycznej przy współpracy Ministerstwa Klimatu i Środowiska.
                             Oprócz wykładów na temat systemy klimatycznego Ziem,  cyklu węglowego, efektu cieplarnianego odbyły się bardzo ciekawe warsztaty:
-                            </div>
+                        </div>
                         <ul>
                             <li>kulinarne, z Jagną Niedzielską zwracające uwagę na problem marnowania żywności,</li>
                             <li>„ubraniowe”, z Katarzyną Wolszczak podkreślające kwestie odpowiedzialnej zrównoważonej mody.</li>
