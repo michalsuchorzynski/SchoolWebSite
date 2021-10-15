@@ -8,6 +8,19 @@ class SchoolLive extends React.PureComponent {
                 <div className="container">
                     <h1>Życie szkoły!!</h1>
                     <section>
+                    <h3>Szczepienie przeciwko COVID-19</h3>
+                        <img
+                            style={
+                                {
+                                    display: "flex",
+                                    width: "40vw"
+                                }
+                            }
+                            src="./images/Szczepionkobus.jpg"
+                            
+                        />
+                    </section>
+                    <section>
                         <h3>Sprzątanie Świata 2021 pod hasłem, Myślę, więc nie śmiecę”.</h3>
                         <div>W poniedziałek, 20 września br., wzorem ubiegłych lat, nasza
                             szkoła włączyła się do akcji „Sprzątania Świata”. Celem
