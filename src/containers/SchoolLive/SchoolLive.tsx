@@ -8,19 +8,28 @@ class SchoolLive extends React.PureComponent {
                 <div className="container">
                     <h1>Życie szkoły!!</h1>
                     <section>
+                        <h3>Dzień Życzliwości</h3>
+                        <a href="http://swietoslawszkola.web-album.org/album/55343,dzien-zyczliwosci">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+
+                    <section>
+                        <h3>Dzień Niepodległości</h3>
+                        <a href="http://swietoslawszkola.web-album.org/album/55342,dzien-niepodleglosci">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
                         <h3>Dzień patrona</h3>
                         <a href="http://swietoslawszkola.web-album.org/album/55256,dzien-patrona">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
                     </section>
                     <section>
                         <h3>Filmiki / prezentacje z okazji Europejskiego Dnia Języków</h3>
                         <a href="https://view.genial.ly/6145f786ae7dec0dd432c71c/presentation-atma">Zapraszamy do obejrzenia prezentacji......</a>
-                        <br/>
+                        <br />
                         <a href="https://www.youtube.com/watch?v=90ksyb2FXuo">Zapraszamy do obejrzenia filmu 1......</a>
-                        <br/>
+                        <br />
                         <a href="https://www.youtube.com/watch?v=ZRmvO2rlCkY">Zapraszamy do obejrzenia filmu 2......</a>
-                        <br/>
+                        <br />
                         <a href="https://www.youtube.com/watch?v=MfO_3ZCpavE">Zapraszamy do obejrzenia filmy 3......</a>
-                        <br/>
+                        <br />
                         <a href="https://www.youtube.com/watch?v=3Tqhshy7U7A">Zapraszamy do obejrzenia filmy 4......</a>
                     </section>
                     <section>
