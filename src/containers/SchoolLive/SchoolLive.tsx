@@ -8,6 +8,130 @@ class SchoolLive extends React.PureComponent {
                 <div className="container">
                     <h1>Życie szkoły!!</h1>
                     <section>
+                        <h3>Warsztaty zdrowego odzywiania</h3>
+                        <span>
+                            Wszyscy wiemy, że zdrowe nawyki żywieniowe to podstawa.
+                            Dlatego 24 marca br., dla klasy IV i VI, odbyły się warsztaty
+                            żywieniowe przygotowane przez nauczyciela biologii. Celem
+                            akcji było zwrócenie uwagi na prawidłowe odżywianie i
+                            wypracowanie zdrowych nawyków żywieniowych. W ramach
+                            zajęć, z taki produktów jak: orzechy, daktyle, morele, kasza
+                            jaglana czy płatki owsiane, uczniowie wyczarowali kulki
+                            Raffaelo czy Lion oraz smaczne cynamonowe przekąski z
+                            jabłkiem. A jak było, popatrzcie sami. :)
+                        </span>
+                        <br></br>
+                        <a href="http://swietoslawszkola.web-album.org/album/55590,warsztaty-zdrowego-odzywiania">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Dobrze Ziemio</h3>
+                        <span>
+                            Dnia 19 marca w Czernikowie odbył się XVII Konkurs twórców ziemi dobrzyńskiej
+                            „Dobrze, Ziemio”, w którym wzięli udział uczniowie z klasy VII ze Szkoły Podstawowej
+                            im. Bohaterów Września 1939 r. w Świętosławiu.
+                        </span>
+                        <br></br>
+                        <span>
+                            W sobotnie przedpołudnie troje uczniów - Eliza Błaszkiewicz, Julia Maćkiewicz i
+                            Wiktor Bolewski, przedstawili swoje recytacje przed jury, w skład którego wchodzili poeci
+                            oraz przedstawiciel Kujawsko-Pomorskiego Centrum Edukacji Nauczycieli. Siódmoklasiści
+                            odnieśli wielki sukces. Wiktor Bolewski zajął 1. miejsce. Otrzymał także Nagrodę Główną
+                            Dyrektora i Stowarzyszenia Gmin Ziemi Dobrzyńskiej i Nagrodę Jury Młodzieżowego.
+                            Eliza Błaszkiewicz zdobyła nagrodę za 3. miejsce. Słowa uznania należą się także Julii
+                            Maćkiewicz, która debiutowała w konkursie, a jej recytacja także spodobała się poetom.
+                            Uczniów do konkursu przygotowywała pani Joanna Piskorska.
+                        </span>
+                        <br></br>
+                        <span>
+                            Konkurs „Dobrze, Ziemio” odbywa się co roku w Czernikowie, tuż przed
+                            początkiem kalendarzowej wiosny. Honorowy patronat pełni toruński Starosta Powiatowy.
+                        </span>
+                        <br></br>
+                        <span>
+                            Serdecznie gratulujemy uczniom sukcesu!
+                        </span>
+                        <br></br>
+                        <a href="http://swietoslawszkola.web-album.org/album/55589,dobrze-ziemio">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Wycieczka? Nareszcie!</h3>
+                        <span>
+                            Uczniowie klas IV-VII Szkoły Podstawowej im. Bohaterów Września 1939 r. w Świętosławiu pojechali na długo wyczekiwaną wycieczkę szkolną.
+                            Co prawda, odwiedzili niezbyt odległy Toruń, ale był to pierwszy taki wyjazd od dwóch lat.
+                            Wycieczka odbyła się 10 marca 2022 r. Uczniowie spacerowali toruńskimi uliczkami, słuchając ciekawostek na temat zabytków,
+                            historii miasta oraz poznając legendy. Następnie obejrzeli przedstawienie przygotowane przez Teatr Muzyczny w Toruniu.
+                            Był to musical na podstawie powieści Marka Twaina "Przygody Tomka Sawyera".
+                        </span>
+                        <br></br>
+                        <span>
+                            Jak widać na zdjęciach, pogoda i humory dopisywały. To był naprawdę udany wyjazd, pełen wrażeń i emocji.
+                        </span>
+                        <br></br>
+                        <a href="http://swietoslawszkola.web-album.org/album/55588,wycieczka-do-torunia">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Andrzejki.</h3>
+                        <a href="http://swietoslawszkola.web-album.org/album/55394,andrzejki">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>EkoEksperymentatorium – klasa IV i V EKOklasą !</h3>
+                        <span>
+                            Uczniowie klasy IV i V wzięli udział w projekcie ekologicznym
+                            EkoEksperymentatorium, realizowanym pod patronatem
+                            Ministerstwa Klimatu i Środowiska. Celem projektu było m.in.
+                            rozwijanie dobrych praktyk ekologicznych u uczniów. Za
+                            udział w akcji, klasa IV i V otrzymała dyplom Ekoklasy oraz
+                            zdobyła umiejętności Mistrza Ekologii.
+                        </span>
+                    </section>
+                    <section>
+                        <h3>Konkurs wiedzy na temat AIDS</h3>
+                        <span>1 grudnia br. z okazji Światowego  Dnia Walki z AIDS, odbył się w naszej szkole, międzyklasowy konkurs wiedzy o AIDS. Uczniowie klas VI-VII, po wysłuchaniu prelekcji przygotowanej przez nauczyciela biologii, napisali test.  Zwycięzcą konkursu została Liliana Rumińska, uczennica klasy VI, zaś wyróżnienia otrzymały następujące osoby:</span>
+                        <br></br>
+                        <ul>
+                            <li>Michał Rumiński</li>
+                            <li>Filip Zalewski</li>
+                            <li>Justyna Romanowska</li>
+                            <li>Oskar Jaskulski</li>
+                            <li>Julia Maćkiewicz </li>
+                            <li>Hubert Jaranowski</li>
+                        </ul>
+                    </section>
+                    <section>
+                        <h3>Międzynarodowy Dzień Tolerancji oraz Światowy Dzień Walki z AIDS w naszej szkole.</h3>
+                        <span>W ramach obchodów Międzynarodowego Dnia Tolerancji oraz Światowego Dnia Walki z AIDS, w naszej szkole zrealizowano szereg zadań. Na korytarzu szkolnym, od samego rana, czekał na uczniów MOTYL EMOCJI. Każdy  mógł wyrazić, towarzyszące mu w tym dniu emocje, zamalowując  kolorem odpowiednie pole.   Pojawił się też SŁOIK MOCY, przygotowany przez uczniów klasy IV, z inspirującymi sentencjami na dany dzień oraz Drzewo Tolerancji z wypisanymi hasłami dotyczącymi tolerancji. Uczniowie klasy VII przygotowali krótki filmik „CZy jesteśmy Tolerancyjni”, zaś uczniowie klasy VIII przygotowali  apel na temat AIDS, po którym  zapalono świeczki ułożone w kokardę, symbolizującą pamięć osób zmarłych na tę chorobę. Dla uczniów klas VI-VII przygotowano międzyklasowy konkurs wiedzy o AIDS, poprzedzony prelekcją na ten temat.</span>
+                        <br></br>
+                        <span>Dzień ten stał się okazją do refleksji nad własną postawą w odniesieniu do innych osób – kolegów, koleżanek. Mamy nadzieję, że wszystkie działania, które w tym dniu  towarzyszyły uczniom pogłębiły ich wiedzę na temat tolerancji oraz AIDS i stały się refleksją nad postawami wobec innych osób. </span>
+                        <br></br>
+                        <a href="http://swietoslawszkola.web-album.org/album/55393,miedzynarodowy-dzien-tolerancji-oraz-swiatowy-dzien-walki-z-aids">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Wyniki zbiórki kasztanów i żołędzi</h3>
+                        <span>
+                            Serdecznie dziękujemy wszystkim osobom
+                            zaangażowanym w zbiórkę kasztanów i żołędzi.
+                            W tym roku szkolnym, pomimo małej ilości
+                            owoców na drzewach, udało się nam zebrać
+                            <b> 184,8 kg</b>. Oczywiście, wszystkie zbiory
+                            przekażemy do Nadleśnictwa Leśno.
+                        </span>
+                        <br></br>
+                        <span>Zwycięzcami indywidualnymi zbiórki zostali:</span>
+                        <br></br>
+                        <ul>
+                            <li>Nadia Rygielska (90 kg)</li>
+                            <li>Lena Wróblewska (30 kg)</li>
+                            <li>Lena Malinowska (16,60 kg)</li>
+                        </ul>
+                        <span>Zwycięzcami zbiórki zostały następujące klasy:</span>
+                        <ul>
+                            <li>III (108,1 kg)</li>
+                            <li>IV (54,91 kg)</li>
+                            <li>I (10,80 kg)</li>
+                        </ul>
+                        <span>Zwycięzcom serdecznie gratulujemy!</span>
+                    </section>
+                    <section>
                         <h3>Dzień Życzliwości</h3>
                         <a href="http://swietoslawszkola.web-album.org/album/55343,dzien-zyczliwosci">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
                     </section>
