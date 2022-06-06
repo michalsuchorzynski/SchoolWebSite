@@ -8,6 +8,105 @@ class SchoolLive extends React.PureComponent {
                 <div className="container">
                     <h1>Życie szkoły!!</h1>
                     <section>
+                        <h3>Muzyczny sukces Antka, ucznia klasy IV:)</h3>
+                        <span>
+                            W Ośrodku Chopinowskim w Szafarni odbył się  Międzyszkolny Konkurs "Smyczkowe nutki"dla dzieci i młodzieży popołudniowych szkół muzycznych I stopnia grających na skrzypcach lub altówce.
+                            Miło nam  poinformować, iż Antoni Charchuła, uczeń  klasy IV, za utwór pt." Bobry", otrzymał wyróżnienie!
+                        </span>
+                        <br></br>
+                        <span>
+                            Serdecznie gratulujemy tego niebywałego sukcesu Antkowi i życzymy kolejnych wspaniałych osiągnięć.
+                        </span>
+                    </section>
+                    <section>
+                        <h3>Dzień dziecka</h3>
+                        <a href="http://swietoslawszkola.web-album.org/album/55763,dzien-dziecka">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    
+                    </section>
+                    <section>
+                        <h3>Wycieczka szkolna</h3>
+                        <a href="http://swietoslawszkola.web-album.org/album/55755,wycieczki-27-05">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Wycieczka do Szkoły Leśnej na Barbarce</h3>
+                        <div>
+                            Dnia 12 maja 2022.r, uczniowie klas IV-VII wybrali się na zajęcia przyrodnicze, zorganizowane w formie podchodów,  do Szkoły Leśnej na Barbarce.  Tematem zajęć była ochrona gatunkowa płazów. Uczniowie wędrowali leśnymi ścieżkami szukając tablic informacyjnych i odpowiadając na pytania zadane w karcie pracy. Następnie udali się do parku linowego na Barbarce,  który dostarczył każdemu z nich, niezwykłego  przypływu adrenaliny , bez względu na wiek czy sprawność fizyczną.   Wycieczka zakończyła się ogniskiem i pieczeniem kiełbasek oraz zabawami na świeżym powietrzu. Zmęczenia ale zadowoleni uczniowie,  powrócili do autokaru aby rozpocząć podróż powrotną do domu.
+                            Nasza wycieczka była dla wszystkich wspaniałą lekcją biologii.  W pamięci pozostaną niezapomniane chwile, a w sercach tysiące zdjęć…
+                        </div>
+                        <a href="http://swietoslawszkola.web-album.org/album/55754,wycieczka-do-szkoly-lesnej-na-barbarce">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Nasza planeta, nasze zdrowie - konkurs z okazji Dnia Ziemi</h3>
+                        <a href="http://swietoslawszkola.web-album.org/album/55675,nasza-planeta">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Album ptaków - praca konkursowa wykonana przez uczniów klasy IV</h3>
+                        <span>
+                            Pragniemy poinformować, iż czwartoklasiści z naszej szkoły otrzymali I miejsce w ogólnopolskim konkursie przyrodniczym pt.”Ptasi Album”
+                            Tym samym wygrali nowoczesny mikroskop Delta Optical BioLight 300 z kamerą Delta Optical DLT-Cam Basic 2 MP oraz  zestaw 50 szt. wysokiej jakości preparatów biologicznych firmy Delta Optical.
+                            To wielki sukces uczniów naszej szkoły, tym bardziej, iż do konkursu przystąpiła ogromna liczba szkół z całej Polski.
+                            Serdecznie gratulujemy uczniom klasy IV i życzymy dalszych sukcesów w konkursach.
+                        </span>
+                        <br></br>
+                        <span>
+                            Zapraszamy do odwiedzenia strony internetowej, na której znajdziecie więcej szczegółów: 
+                        </span>
+                        <a href="https://gwo.pl/przedmioty/przyroda/ptasi-album/?fbclid=IwAR2fBFSEV29Ajvs0Gk0WgoiYTRxBWDm7hysFTkIStgdScaBsM9gskuiwGFQ">tutaj</a>
+                        <br></br>
+                        <a href="http://swietoslawszkola.web-album.org/album/55674,album-ptakow">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Dzień bez plecaka</h3>
+
+                        <a href="http://swietoslawszkola.web-album.org/album/55633,dzien-bez-plecaka">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Dzień autyzmu</h3>
+                        <a href="http://swietoslawszkola.web-album.org/album/55634,dzien-autyzmu">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Światowy dzień wody</h3>
+                        <span>
+                            Co roku, 22 marca na świecie obchodzony jest Dzień Wody. Nasza szkoła, wspólnie z tysiącami placówek edukacyjnych w Polsce, także celebrowała ten dzień. Udało nam się zorganizować szereg działań, których celem było podniesienie  świadomości dzieci i młodzieży na temat roli wody w życiu każdego człowieka, promocja odpowiedzialnego korzystania z jej zasobów, a także kształtowanie zachowań i postaw proekologicznych. Dla klas IV-VIII zorganizowaliśmy dwa  konkursy wiedzy o wodzie : „ Kujesz czy rapujesz-wody potrzebujesz” i  „ Konkurs wiedzy o wodzie” oraz prezentację o właściwościach wody,  przygotowaną przez dziewczyny z klasy VIII. W pierwszym konkursie zwycięzcami zostali:
+                        </span>
+                        <br></br>
+                        <ol>
+                            <li>
+                                Konrad Popielarski
+                            </li>
+                            <li>
+                                Szymon Lipiński, Nikola Ciechanowska,   Oliwier Główka
+                            </li>
+                            <li>
+                                Karolina Górna, Michał Jaranowski, Marcin Romanowski, Julia Sztramkowska, Ksawery Piotrowski
+                            </li>
+                        </ol>
+                        <span>
+                            W drugim zaś:
+                        </span>
+                        <br></br>
+                        <ol>
+                            <li>
+                                Sylwia Gręźlik
+                            </li>
+                            <li>
+                                Kacper Łańcucki, Hubert Jaranowski, Piotr  Kotkiewicz, Wiktor Ziółkowski
+                            </li>
+                            <li>
+                                Oskar Jaskulski, Filip Kalinowski, Sylwia Frącz, Maja Florkiewicz
+                            </li>
+                        </ol>
+                        <span>
+                            Dla uczniów klasy VII, przygotowaliśmy escape room pt. „Wodne wyzwania”. Ta niecodzienna forma nauki przez zabawę – pokój zagadek, bardzo przypadła do gustu uczniom naszej szkoły.
+                        </span>
+                        <br></br>
+                        <span>
+                            Mamy nadzieję, że impreza uświadomiła uczniom, że woda to życie i należy ją szanować. Zorganizowanie szkolnego Dnia Wody nie byłoby możliwe bez wsparcia sponsorów. Dziękujemy firmie Bio Food z Ciechocina za ekologiczne soki jabłkowe oraz pani Magdzie Kotkiewicz za przekazanie  butelek z wodą dla uczniów naszej szkoły.
+                        </span>
+                        <br></br>
+                        <a href="http://swietoslawszkola.web-album.org/album/55635,swiatowy-dzien-wody">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
                         <h3>Warsztaty zdrowego odzywiania</h3>
                         <span>
                             Wszyscy wiemy, że zdrowe nawyki żywieniowe to podstawa.
