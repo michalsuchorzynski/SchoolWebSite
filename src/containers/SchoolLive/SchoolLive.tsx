@@ -8,6 +8,14 @@ class SchoolLive extends React.PureComponent {
                 <div className="container">
                     <h1>Życie szkoły!!</h1>
                     <section>
+                        <h3>Święto Konstytucji 3-go Maja.</h3>
+                        <a href="http://swietoslawszkola.web-album.org/album/55776,swieto-konstytucji-3-go-maja">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Dzień mamy i taty.</h3>
+                        <a href="http://swietoslawszkola.web-album.org/album/55775,dzien-mamy-i-taty">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
                         <h3>Muzyczny sukces Antka, ucznia klasy IV:)</h3>
                         <span>
                             W Ośrodku Chopinowskim w Szafarni odbył się  Międzyszkolny Konkurs "Smyczkowe nutki"dla dzieci i młodzieży popołudniowych szkół muzycznych I stopnia grających na skrzypcach lub altówce.
