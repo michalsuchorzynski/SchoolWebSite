@@ -8,6 +8,56 @@ class SchoolLive extends React.PureComponent {
                 <div className="container">
                     <h1>Życie szkoły!!</h1>
                     <section>
+                        <h3>Wyniki egzaminy ósmoklasisty 2022.</h3>
+                        <span>Uczniowie klasy ósmej osiągnęli w tym roku wysokie wyniki z egzaminu. Wszystkim tegorocznym  absolwentom i nauczycielom gratulujemy.</span>
+                        <table>
+                            <tr>
+                                <th>Przedmiot</th>
+                                <th>Nasz wynik</th>
+                                <th>Powiat</th>
+                                <th>Województwo</th>
+                                <th>Kraj</th>
+                                <th>Wynik w skali staninowej</th>
+                            </tr>
+                            <tr>
+                                <td>j. polski</td>
+                                <td><b>71%</b></td>
+                                <td>57%</td>
+                                <td>58%</td>
+                                <td>60%</td>
+                                <td>8</td>
+                            </tr>
+                            <tr>
+                                <td>matematyka</td>
+                                <td><b>58%</b></td>
+                                <td>50%</td>
+                                <td>53%</td>
+                                <td>57%</td>
+                                <td>5</td>
+                            </tr>
+                            <tr>
+                                <td>j. angielski</td>
+                                <td><b>54%</b></td>
+                                <td>56%</td>
+                                <td>63%</td>
+                                <td>67%</td>
+                                <td>4</td>
+                            </tr>
+                        </table>
+                    </section>
+                    <section>
+                        <h3>Wycieczka do Warszawy.</h3>
+                        <a href="http://swietoslawszkola.web-album.org/album/55863,wycieczka-do-warszawy">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Zakończenie roku szkolnego.</h3>
+                        <a href="http://swietoslawszkola.web-album.org/album/55858,zakonczenie-roku-szkolnego">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>"Tak chcemy żyć"-udział w kampanii Walki ze smogiem.</h3>
+                        Uczniowie klasy VII wzięli udział w ogólnopolskiej akcji Walki ze smogiem przygotowując krótki filmik pt. "Tak chcemy żyć". Życzymy miłego oglądania:)
+                    </section>
+                    <section>
                         <h3>Święto Konstytucji 3-go Maja.</h3>
                         <a href="http://swietoslawszkola.web-album.org/album/55776,swieto-konstytucji-3-go-maja">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
                     </section>
@@ -29,7 +79,7 @@ class SchoolLive extends React.PureComponent {
                     <section>
                         <h3>Dzień dziecka</h3>
                         <a href="http://swietoslawszkola.web-album.org/album/55763,dzien-dziecka">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
-                    
+
                     </section>
                     <section>
                         <h3>Wycieczka szkolna</h3>
@@ -57,11 +107,13 @@ class SchoolLive extends React.PureComponent {
                         </span>
                         <br></br>
                         <span>
-                            Zapraszamy do odwiedzenia strony internetowej, na której znajdziecie więcej szczegółów: 
+                            Zapraszamy do odwiedzenia strony internetowej, na której znajdziecie więcej szczegółów:
                         </span>
                         <a href="https://gwo.pl/przedmioty/przyroda/ptasi-album/?fbclid=IwAR2fBFSEV29Ajvs0Gk0WgoiYTRxBWDm7hysFTkIStgdScaBsM9gskuiwGFQ">tutaj</a>
                         <br></br>
-                        <a href="http://swietoslawszkola.web-album.org/album/55674,album-ptakow">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                        <a href="http://swietoslawszkola.web-album.org/album/55674,album-ptakow">Zapraszamy do obejrzenia zdjęc prac konkursowych......</a>
+                        <a href="http://swietoslawszkola.web-album.org/album/55857,zdjecia-konkurs-ptaki">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+
                     </section>
                     <section>
                         <h3>Dzień bez plecaka</h3>
