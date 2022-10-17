@@ -8,6 +8,62 @@ class SchoolLive extends React.PureComponent {
                 <div className="container">
                     <h1>Życie szkoły!!</h1>
                     <section>
+                        <h3>Dzień patrona.</h3>
+                        <a href="http://swietoslawszkola.web-album.org/album/56099,dzien-patrona">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Rozpoczecie roku szkolnego.</h3>
+                        <a href="http://swietoslawszkola.web-album.org/album/56100,rozpoczecie-roku-szkolnego">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Dzień Świętego Patryka.</h3>
+                        <span>
+                            Dnia 17 marca 2022 roku odbyły się w naszej szkole obchody Dnia Świętego Patryka. W ich
+                            ramach odbył się konkurs na najlepsze przebranie (wszyscy uczestnicy otrzymali słodkie upominki).
+                            Ponadto uczniowie wszystkich klas brali udziął w zajęciach i wykonali ćwiczenia, które przybliżyły im
+                            zwyczaje związane z obchodami tego święta jak i postać samego świętego Patryka, patrona Irlandii.
+                            Dodatkowo uczniowie klasy 2 pokusili się o wykonanie tradycyjnego tańca irlandzkiego, a uczniowie
+                            klasy 6 rozwiązali interaktywny quiz dotyczący wiedzy o Dniu Świętego Patryka.
+                        </span>
+                        <br></br>
+                        <a href="http://swietoslawszkola.web-album.org/album/55934,dzien-swietego-patryka">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Powiatowy Konkurs Języka Angielskiego w Golubiu-Dobrzyniu.</h3>
+                        <span>
+                            W dniu 13 czerwca 2022r. odbył się I Powiatowy Konkurs Języka Angielskiego dla uczniów klas ósmych
+                            zorganizowany przez Zespół Szkół nr1 im. Anny Wazówny w Golubiu-Dobrzyniu. Z naszej szkoły
+                            wzięli w nim udział Sylwia Frącz oraz Damian Dąbrowski. Nasi uczniowie otrzymali dyplomy i nagrody
+                            za udział w konkursie, a Damian także wyróżnienie.
+                        </span>
+                        <br></br>
+                        <a href="http://swietoslawszkola.web-album.org/album/55933,powiatowy-konkurs-jezyka-angielskiego-w-golubiu-dobrzyniu">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Projekt eTwinning "Magic Hats House".</h3>
+                        <span>
+                            W roku szkolnym 2021/2022 wraz z pięcioma uczniami klasy 6 – Nikolą Ciechanowską, Justyną
+                            Romanowską, Lilianą Rumińską, Kamilem Gierłowskim i Filipem Zalewskim wzięliśmy udział w
+                            projekcie eTwinning „Magic Hats House”.W jego ramach współpracowaliśmy z 8 szkołami partnerskimi
+                            z Turcji, 1 z Polski oraz po 1 z Hiszpanii, Portugalii i Mołdawii. Uczestnicy byli w wieku od 10 do 14 lat.
+                            Głównym celem projektu było zachęcenie uczniów do nauki języka angielskiego poprzez ukazanie
+                            praktycznego zastosowania zdobywanej wiedzy, wykorzystanie atrakcyjnych internetowych narzędzi oraz
+                            wykorzystanie naturalnej skłonności do poszukiwania informacji, ciekawości i chęci poznania nowych
+                            ludzi. Główne treści przekazywane w trakcie projektu dotyczyły regionalnego dziedzictwa kulturowego
+                            państw partnerskich szkół. Prezentowaliśmy m.in. tradycyjne stroje (Ziemi Dobrzyńskiej) czy symbole
+                            kulturowe regionów (pierniki „Katarzynki”) poszerzając tym samym wiedzę zarówno o naszej kulturze
+                            jak i naszych partnerów. Innym ważnym czynnikiem było dzielenie się wiedzą i umiejętnościami
+                            związanymi z nauką języka angielskiego - wykorzystaliśmy gry, quizy, chaty, rozmowę wideo, oraz inne
+                            atrakcyjne formy prezentowania wiedzy. Bardzo ważny dla naszych uczniów był bezpośredni kontakt
+                            online.Wysyłaliśmy też do siebie cyfrowe pocztówki z życzeniami noworocznymi.
+                        </span>
+                        <br></br>
+                        <span>
+                            Po zakończeniu projektu złożyliśmy wniosek i otrzymaliśmy krajową odznakę jakości.
+                        </span>
+                        <a href="http://swietoslawszkola.web-album.org/album/55932,projekt-etwinning-magic-hats-house">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
                         <h3>Wyniki egzaminy ósmoklasisty 2022.</h3>
                         <span>Uczniowie klasy ósmej osiągnęli w tym roku wysokie wyniki z egzaminu. Wszystkim tegorocznym  absolwentom i nauczycielom gratulujemy.</span>
                         <table>
