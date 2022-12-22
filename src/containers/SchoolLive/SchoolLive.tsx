@@ -8,7 +8,278 @@ class SchoolLive extends React.PureComponent {
                 <div className="container">
                     <h1>Życie szkoły!!</h1>
                     <section>
+                        <h3>Spotkanie z Mikołajem.</h3>
+                        <br></br>
+                        <a href="http://swietoslawszkola.web-album.org/album/56295,spotkanie-z-mikolajem">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Ptasia stołówka.</h3>
+                        <span>
+                            Aby pomóc ptakom przetrwać zimę, w piątkowe
+                            popołudnie, uczniowie klas V-VI, wykonali karmniki
+                            dla ptaków. Dzieciaki z wielkim zaangażowaniem
+                            tworzyły w parach karmniki, do których użyły:
+                            tekturowych tub, sznurka jutowego i kleju.
+                            Ich wykonanie sprawiło im wiele radości i frajdy, a jak
+                            było zobaczcie sami.
+                        </span>
+                        <br></br>
+                        <a href="http://swietoslawszkola.web-album.org/album/56294,ptasia-stolowka">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Tajna, biologiczna misja w szkole.</h3>
+                        <span>
+                            W piątkowe popołudnie, uczniowie klas V-VI
+                            uczestniczyli w fabularnej, biologicznej grze
+                            zagadkowej „Tajna Misja”.
+                            Celem zabawy była nauka współpracy między uczniami
+                            a humorystyczny wątek śledztwa miał na celu
+                            pogłębienie relacji między nimi.
+                            Dzieciaki na początku otrzymały liściki z
+                            zaszyfrowanymi wiadomościami, oraz notes Ciotki
+                            Karmeli, który zawierał przydatne informacje i
+                            miejsce na szyfr. Podczas zabawy odwiedzili wiele sal
+                            lekcyjnych, w których poukrywane były łamigłówki. A
+                            nie były one proste. Nasi uczniowie poradzili sobie
+                            jednak bardzo dobrze i w nagrodę otrzymali pudełka
+                            ze słodyczami. Nie obyło się także bez przygotowania
+                            przez uczniów pizzy, podczas której rozwijali swoje
+                            zdolności kulinarne. A to co wyczarowali z
+                            przyniesionych produktów, przeszło nasze najśmielsze
+                            oczekiwania. Zresztą zobaczcie sami….
+                        </span>
+                        <br></br>
+                        <a href="http://swietoslawszkola.web-album.org/album/56297,tajna-biologiczna-misja-w-szkole">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Jak działa układ pokarmowy człowieka- praktyczna lekcja biologii w klasie VII.</h3>
+                        <span>
+                            Uczniowie klasy VII, na zajęciach biologicznych,
+                            postanowili dowiedzieć się , w jaki sposób funkcjonuje
+                            układ pokarmowy zdrowego i chorego człowieka.
+                            Postanowili zatem sprawdzić: jak działają kosmki
+                            jelitowe u osoby zdrowej a jak u osoby z celiakią; w
+                            jaki sposób wątroba neutralizuje substancje
+                            toksyczne; jaka jest rola woreczka żółciowego i czy
+                            wycinając woreczek żółciowy tłuszcze są odpowiednio
+                            „rozbijane” na mniejsze kuleczki oraz czy amylaza
+                            faktycznie rozkłada skrobię. Wyniki i wnioski były dla
+                            niektórych dużym zaskoczeniem.
+                        </span>
+                        <br></br>
+                        <a href="http://swietoslawszkola.web-album.org/album/56293,jak-dziala-uklad-pokarmowy-czlowieka">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Emp@tyczna klasa.</h3>
+                        <span>
+                            Uczniowie ze Szkoły Podstawowej im. Bohaterów Września 1939r.
+                            w Świętosławiu wykonali pierwsze zadanie w ramach projektu "Emp@tyczna klasa".  Na korytarzu szkolnym z zainteresowaniem czytaliśmy informacje dotyczące empatii.
+                            Na godzinach wychowawczych rozmawialiśmy o emocjach i obejrzeliśmy film. Uczniowie klas 3 i 4 przygotowali 40 emotek z nazwami emocji.
+                            Następnie razem z kolegami z klas 7 i 8 wzięli udział w grze terenowej polegającej na poszukiwaniu ukrytych w szkole emotek i wykonywaniu różnego rodzaju zadań.
+                        </span>
+                        <br></br>
+                    </section>
+                    <section>
+                        <h3>Edukacja globalna-webinaria.</h3>
+                        <span>
+                            Uczennice i uczniowie naszej szkoły po raz kolejny  włączyli się  w obchody Tygodnia Edukacji Globalnej (TEG) –
+                            święta ludzi zainteresowanych światem i zmienianiem go. Ten międzynarodowy tydzień poświęcony globalnym wyzwaniom to ogólnoeuropejska inicjatywa
+                            zapoczątkowana w 1999 roku przez Centrum Północ-Południe działające przy Radzie Europy. Udział w TEG to możliwość włączenia się do globalnej akcji i wspólnego zmieniania świata na lepszy!
+                        </span>
+                        <br></br>
+                        <span>
+                            Uczniowi klas 4-8 uczestniczyli w <b>Festiwalu internetowym „Świat w szkole, szkoła w świecie”</b>.
+                            Poszerzyli swoją wiedzę na temat globalnych wyzwań i zrównoważonego rozwoju uczestnicząc w zdalnym spotkaniu z ekspertami w
+                            formie interaktywnych webinarów, warsztatów, pokazów filmów.
+                        </span>
+                        <br></br>
+                        <span>Uczestniczyliśmy w trzech sesjach na temat:</span>
+                        <br></br>
+                        <ul>
+                            <li>"Środowisko przyrodnicze globalnie"</li>
+                            <li>"Klimat: Mroczy sekret Internetu"</li>
+                            <li>"Aktywizm na rzecz migrantów i migrantek"</li>
+                        </ul>
+                        <br></br>
+                        <a href="http://swietoslawszkola.web-album.org/album/56186,edukacja-globalna-webinaria">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Empatia.</h3>
+                        <a href="http://swietoslawszkola.web-album.org/album/56185,empatia">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Apel Dzień Niepodległości.</h3>
+                        <a href="http://swietoslawszkola.web-album.org/album/56184,apel-dzien-niepodleglosci">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Dzień postaci z bajki.</h3>
+                        <span>
+                            Międzynarodowy Dzień Postaci z Bajek obchodzimy 5 listopada. Są to urodziny Walta Disneya, bardzo znanego producenta filmów anonimowych i twórcy Myszki Miki.
+                            W naszej szkole również świętowaliśmy też miły dzień. Chętne dzieci przebrały się w tym dniu za postać z dowolnej bajki. Do zabawy przyłączyła się też część nauczycieli. Na szkolnych korytarzach mogliśmy spotkać księżniczki, Tygrysy, Czerwonego Kapturka, Spidermena, Harrego Pottera, Myszkę Minnie i wiele innych bajkowych postaci. W każdej klasie wybrano najlepiej przebranego ucznia. Dzieci z zerówek w czasie zajęć przypomniały sobie wybrane baśnie i bajki, rozpoznawały bohaterów po opisie oraz poznali nowe bajkowe historie. Uczniowie z klas I - III rysowali swoich ulubionych bajkowych bohaterów.
+                            Starsi uczniowie z klas IV- VIII wzięli udział w konkursie bibliotecznym – Odgadnij postać oraz tytuł  bajki/ baś
+                        </span>
+                        <br></br>
+                        <a href="http://swietoslawszkola.web-album.org/album/56183,dzien-postaci-z-bajki">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Ahoj PRZYGODO! -jednodniowa wycieczka do Torunia.</h3>
+                        <span>
+                            4 listopada br. uczniowie klas IV-VII udali się na wycieczkę do
+                            Torunia. Jedną z atrakcji wyjazdu był Laserowy Paintball, gdzie
+                            na próbę wystawiony został spryt, szybkość, celność i odwaga.
+                            Specjalne efekty dźwiękowe, zawiły labirynt, oświetlenie, dym-
+                            spotęgowały tylko wrażenia uczestników. Laserowy Paintball
+                            pozwolił uczniom przeżyć ekstremalną przygodę i dostarczył
+                            wszystkim mnóstwo adrenaliny.
+                        </span>
+                        <br></br>
+                        <span>
+                            Kolejnym punktem wycieczki był Dom Kłódek i escape room. To
+                            niezapomniana przygoda pełna emocji. Zadaniem uczniów było
+                            rozwiązywanie zawiłych zagadek w specjalnie zaaranżowanych
+                            pomieszczeniach, w określonym czasie. By tego dokonać,
+                            uczniowie musieli przełamać sporą ilość szyfrów, skojarzyć
+                            nieoczywiste elementy, by finalnie dotrzeć do mety. Kluczem do
+                            sukcesu była współpraca, logiczne myślenie i duża dawka
+                            kreatywności. Do dyspozycji nasi uczniowie mieli aż 8
+                            pomieszczeń, min.: Lunapark, Kryptę, Mroczne zamczysko, czy
+                            PRL dekonspirację Gieńka i tylko 60 minut aby wydostać się z
+                            danego pomieszczenia. Po raz kolejny receptą na sukces okazały
+                            się: kreatywność, umiejętność współpracy w grupie, spryt i
+                            odwaga w szukaniu rozwiązań. To było świetne miejsce na naukę i
+                            zabawę.
+                        </span>
+                        <br></br>
+                        <span>
+                            Zmęczeni, ale zadowoleni wróciliśmy do domu. Ta wycieczka na
+                            pewno na długo pozostanie w naszej pamięci.
+                        </span>
+                        <br></br>
+                        <a href="http://swietoslawszkola.web-album.org/album/56172,wycieczka-do-torunia">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Kacper Popielarski laureatem konkursu przyrodniczego pt.„STOP ZMIANOM KLIMATU”.</h3>
+                        <span>
+                            Szkoła leśna na Barbarce zorganizowała dla wszystkich
+                            uczniów całego kraju, ogólnopolski konkurs dotyczący
+                            wpływu człowieka na zmiany klimatyczne świata.
+                        </span>
+                        <br></br>
+                        <span>
+                            Niniejszym pragniemy poinformować, iż Kacper Popielarski
+                            został laureatem konkursu przyrodniczego pt.” Stop Zmianom Klimatu”.
+                        </span>
+                        <br></br>
+                        <span>
+                            Serdecznie gratulujemy Kacprowi i życzymy kolejnych
+                            sukcesów edukacyjnych.
+                        </span>
+                    </section>
+                    <section>
+                        <h3>Konkurs „ Jedz z głową” ROZSTRZYGNIĘTY!.</h3>
+                        <span>
+                            W dniach od 10 do 21 października br., uczniowie klas IV-VIII
+                            wzięli udział w szkolnym konkursie promującym zdrowy styl życia
+                            „Jedz z głową” .
+                        </span>
+                        <br></br>
+                        <span>
+                            Celem konkursu było podniesienie świadomości dotyczącej zdrowego
+                            odżywiania wśród dzieci i młodzieży oraz kształtowanie postawy
+                            sprzyjającej wzmocnieniu własnego zdrowia. Przedmiotem konkursu
+                            było przygotowanie zdrowego śniadania i zaprezentowanie go na
+                            forum klasy każdego dnia.
+                        </span>
+                        <br></br>
+                        <span>
+                            Serdecznie dziękujemy za tak liczny udział w konkursie!. A oto lista
+                            zwycięzców:
+                        </span>
+                        <br></br>
+                        <ul>
+                            <li>Antonina Rumińska (kl.V), Kornelia Nowak (kl.V)</li>
+                            <li>Piotr Romanowski (kl.IV), Ksawery Piotrowski (kl. VI), Kinga Romanowska (kl. VI), Szymon Kowalski (kl. VIII)</li>
+                            <li>Lena Wróblewska (kl. V), Adam Wróblewski (kl. V), Michał Jaranowski (kl. VI), Oliwier Główka (kl. VI), Wiktoria Piotrowska (kl. VI),
+                                Liliana Rumińska (kl.VII), Julia Sztramkowska (kl.VII), Nadia Rygielska (kl. IV),
+                                Oliwia Romanowska (kl. IV),
+                                Iza Pilewska (kl. IV),
+                                Lena Malinowska (kl. IV),
+                                Magda Florkiewicz (kl. IV),
+                                Anna Dębowska (kl. IV),
+                                Anna Dąbrowska (kl. IV)
+                            </li>
+                        </ul>
+                    </section>
+                    <section>
+                        <h3>Międzynarodowy Dzień Tabliczki Mnożenia.</h3>
+                        <a href="http://swietoslawszkola.web-album.org/album/56134,miedzynarodowy-dzien-tabliczki-mnozenia">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Wybory do Zarządu Samorządu Uczniowskiego.</h3>
+                        <span>
+                            Dnia 6 października odbyły się w naszej szkole wybory do Zarządu Samorządu Uczniowskiego.
+                            Po trwającej tydzień kampanii wyborczej przewodniczącym szkoły został Kacper Puszakowski, zastępcą Wiktor Bolewski a sekretarzem Zofia Wierzbowska.
+                            Gratulujemy i życzymy samych sukcesów.
+                        </span>
+                        <a href="http://swietoslawszkola.web-album.org/album/56133,wybory-do-zarzadu-samorzadu-uczniowskiego">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Ślubowanie klasy I.</h3>
+                        <a href="http://swietoslawszkola.web-album.org/album/56132,slubowanie-klasy-i">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Dzień jabłka.</h3>
+                        <span>
+                            28 września br. obchodziliśmy w naszej szkole Światowy Dzień Jabłka.
+                            Świętowanie tego dnia miało na celu promowanie zdrowego odżywiania się
+                            oraz zachęcenia do codziennego spożywania tych owoców.
+                        </span>
+                        <br></br>
+                        <span>
+                            W tym dniu, uczniowie klasy piątej, przygotowali dla swoich kolegów i
+                            koleżanek z klas IV-VIII, krótki apel na temat walorów zdrowotnych jabłek.
+                            Następnie odbyły się konkursy z jabłkiem w roli głównej: quiz pt.” Jabłka-ile o
+                            nich wiesz”, jedzenie jabłek na czas, obieranie jabłka w taki sposób, aby
+                            powstała jak najdłuższa skórka, obieranie jabłek na czas czy slalom z
+                            paletkami i jabłkiem. Było przy tym dużo śmiechu, radości i pozytywnych
+                            emocji a wygrani otrzymali nagrody. Dzień zakończył się zjedzeniem pysznych
+                            ciast upieczonych przez rodziców oraz rozdaniem jabłek od sponsora.
+                        </span>
+                        <br></br>
+                        <span>
+                            Dziękujemy młodzieży szkolnej za pomoc w zorganizowaniu tego dnia,
+                            nauczycielom i obsłudze, którzy na bieżąco bardzo pomagali, rodzicom za
+                            smaczne ciasta oraz sponsorowi za pyszne, soczyste jabłka.
+                        </span>
+                        <a href="http://swietoslawszkola.web-album.org/album/56118,dzien-jablka">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
+                        <h3>Sprzątanie świata.</h3>
+                        <a href="http://swietoslawszkola.web-album.org/album/56117,sprzatania-swiata">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
+                    </section>
+                    <section>
                         <h3>Dzień patrona.</h3>
+                        <span>
+                            W poniedziałek 26 września 2022 r. społeczność Szkoły Podstawowej im. Bohaterów Września 1939r.
+                            w Świętosławiu obchodziła ważny, uroczysty dzień – Święto Patrona. Obchody uświetnił XI
+                            Międzyszkolny Konkurs Recytatorski Poezji i Prozy Patriotycznej. Wzięli w nim udział uczniowie i
+                            uczennice ze szkół w: Ciechocinie, Czernikowie, Mazowszu, Nowogrodzie, Osówce i Świętosławiu.
+                            Jury pod kierownictwem Wójta Gminy Ciechocin, Andrzeja Okrucińskiego, doceniło interpretację
+                            utworów w wykonaniu: Mai Bułakowskiej (Czernikowo), Huberta Lewandowskiego (Nowogród),
+                            Bartłomieja Kiełpińskiego (Mazowsze), Wiktora Bolewskiego (Świętosław), Mai Rybskiej (Czernikowo)
+                            i Justyny Romanowskiej (Świętosław).
+                        </span>
+                        <br></br>
+                        <span>
+                            Warto przypomnieć, że szkoła w Świętosławiu otrzymała imię i sztandar przed 12 laty, 25 września
+                            2010 r. Od roku 2011 organizowany jest Międzyszkolny Konkurs Recytatorski Poezji i Prozy
+                            Patriotycznej – nawiązujący do Patrona Szkoły, czyli Bohaterów Września 1939 r. Konkurs cieszy się
+                            dużą popularnością wśród uczniów – zarówno w Świętosławiu, jak i okolicznych miejscowościach. W
+                            związku z pandemią i obostrzeniami – dwie poprzednie edycje odbyły się w formie zdalnej. Dwunasta
+                            edycja mogła się już odbyć stacjonarnie, dlatego wystąpieniom uczniów towarzyszyły duże emocje i
+                            wzruszenie.
+                        </span>
+                        <br></br>
                         <a href="http://swietoslawszkola.web-album.org/album/56099,dzien-patrona">Zapraszamy do obejrzenia zdjęc z wydarzenia......</a>
                     </section>
                     <section>
